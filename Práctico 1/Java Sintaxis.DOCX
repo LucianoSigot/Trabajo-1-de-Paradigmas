@@ -1,0 +1,19 @@
+Práctico N 2
+
+1. Generalización simbólica: las reglas escritas del lenguaje javaScript, acotado al paradigma de programación estructurada, incluyen su sintaxis y semántica. Esto abarca cómo se definen y utilizan variables, estructuras de control, funciones y procedimiento.
+
+2. Creencias de los profesionales: En la comunidad de desarrollo, se cree que JavaScript ofrece una alta flexibilidad y una curva de aprendizaje relativamente baja en comparación con otros lenguajes. Se valora su capacidad para ser utilizado tanto en el lado del cliente como en el servidor, lo que lo hace un lenguaje muy versátil. Además, la simplicidad de su sintaxis y la gran cantidad de bibliotecas y frameworks disponibles son vistas como ventajas significativas. 
+
+Parte B:
+
+1. Sintaxis y semántica bien definidas: Sí, JavaScript tiene una sintaxis y semántica bien definidas. Existe abundante documentación oficial, principalmente a través de MDN Web Docs y la especificación ECMAScript. 
+2. Comprobación del código: JavaScript, al ser un lenguaje interpretado, no tiene una fase de compilación que realice comprobaciones de tipo estático antes de la ejecución. Sin embargo, existen herramientas como TypeScript que añaden tipado estático para mejorar la comprobación de código. 
+
+3. Confiabilidad: La confiabilidad de JavaScript depende en gran medida del contexto de su uso. En aplicaciones web, es ampliamente confiable, pero su falta de tipado fuerte y otros controles de seguridad pueden ser un inconveniente en ciertos contextos críticos. 
+4. Ortogonalidad: JavaScript no es completamente ortogonal, ya que ciertos elementos del lenguaje pueden interactuar de manera inesperada, especialmente debido a su coerción de tipos automática. 
+
+5. Consistencia y uniformidad: JavaScript es relativamente consistente, aunque presenta ciertas excepciones en su manejo de tipos y en algunas construcciones de lenguaje, lo que puede generar comportamientos inesperados. 
+
+6. Extensibilidad: JavaScript es altamente extensible. Hay una gran cantidad de bibliotecas, frameworks y herramientas que permiten extender sus funcionalidades. TypeScript, por ejemplo, es un superconjunto de JavaScript que extiende sus capacidades. 
+
+7. Extensibilidad: JavaScript es altamente extensible. Hay una gran cantidad de bibliotecas, frameworks y herramientas que permiten extender sus funcionalidades. TypeScript, por ejemplo, es un superconjunto de JavaScript que extiende sus capacidades. 
