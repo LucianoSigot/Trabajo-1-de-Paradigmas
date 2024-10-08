@@ -24,7 +24,7 @@ export function editarTarea(tarea) {//función que se encarga de editar las tare
       nuevaDificultad = prompt("Nueva dificultad: ");
     }
 
-    if(nuevaDificultad) tarea.dificultad=nuevaDificultad;
+    if(nuevaDificultad) tarea['dificultad']=nuevaDificultad;
 
     tarea['fechaUltimaEdicion'] = new Date();
     console.log("Tarea editada correctamente");
